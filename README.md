@@ -4,6 +4,14 @@
 **shantanutyagi67/shantanutyagi67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/shantanu-tyagi-166322175/)
 [![YouTube][youtube-shield]](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
 [![Instagram][instagram-shield]](https://www.instagram.com/geeksa67/)
