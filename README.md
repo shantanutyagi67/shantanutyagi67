@@ -4,10 +4,10 @@
 **shantanutyagi67/shantanutyagi67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
 
-[![Stars][stars-shield]][forks-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/shantanu-tyagi-166322175/]
-[![YouTube][youtube-shield]][https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA?]
-[![Instagram][instagram-shield]][https://www.instagram.com/geeksa67/]
+[!][Stars][stars-shield]][forks-url]
+[!][LinkedIn][linkedin-shield]][https://www.linkedin.com/in/shantanu-tyagi-166322175/]
+[!][YouTube][youtube-shield]][https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA?]
+[!][Instagram][instagram-shield]][https://www.instagram.com/geeksa67/]
 
   <h3 align="center">YOUR_TITLE</h3>
 
