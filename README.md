@@ -12,12 +12,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/shantanu-tyagi-166322175/)
 [![YouTube][youtube-shield]](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
 [![Instagram][instagram-shield]](https://www.instagram.com/geeksa67/)
 [![Stars][stars-shield]](https://github.com/shantanutyagi67?tab=stars)
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
   <h3 align="center">YOUR_TITLE</h3>
 
   <p align="center">
