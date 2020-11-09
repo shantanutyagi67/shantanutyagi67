@@ -14,8 +14,8 @@
 -->
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/shantanu-tyagi-166322175/)
-[![YouTube][youtube-shield]](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
-[![Instagram][instagram-shield]](https://www.instagram.com/geeksa67/)
+[![YouTube]](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
+[![Instagram]](https://www.instagram.com/geeksa67/)
 [![Stars][stars-shield]](https://github.com/shantanutyagi67?tab=stars)
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
