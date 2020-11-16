@@ -28,10 +28,10 @@ You can find me on [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Youtube][3.2]
 [![Instagram][linkedin-shield]](https://www.instagram.com/geeksa67/)
 [![Stars][stars-shield]](https://github.com/shantanutyagi67?tab=stars)
 
-![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true)<br>
-![Shantanu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shantanutyagi67)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&exclude_repo=IE402_Labs,IT214_Labs,YoutubeDataAPI,dog-project,AcadVault,CT303_Labs) <br>
+![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true)
+![Shantanu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shantanutyagi67)<br>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=VisualisationProjects_Mini)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=SnakeAI) <br>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=Tetris_AI)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=Classification)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=Classification) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&exclude_repo=IE402_Labs,IT214_Labs,YoutubeDataAPI,dog-project,AcadVault,CT303_Labs) 
