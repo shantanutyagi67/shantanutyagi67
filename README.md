@@ -6,17 +6,21 @@
 <!-- INTRO -->
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Shantanu Tyagi and I am a 3rd-year undergrad student of Information and Communication Technology(Hons) with a minor in Computational Science- B.Tech at the Dhirubhai Ambani Institute of Information and Communication Technology, India. <br>
-You can find me on [![Twitter][1.2]][1], [![LinkedIn][2.2]][2].
+You can find me on [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Youtube][3.2]][3] [![Medium][4.2]][4].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://imgur.com/Vahbdkj.png (LinkedIn icon without padding)
+[1.2]: https://imgur.com/Lk0sf5f.png (twitter icon without padding)
+[2.2]: https://imgur.com/IuEv1GQ.png (LinkedIn icon without padding)
+[3.2]: https://imgur.com/nSekFBq.png (LinkedIn icon without padding)
+[4.2]: https://iconscout.com/icon/medium-47 (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.instagram.com/geeksa67/
+[2]: https://www.linkedin.com/in/shantanu-tyagi-166322175/
+[3]: https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA
+[4]: https://medium.com/@shantanutyagi67
 
 <!-- SHIELDS -->
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/shantanu-tyagi-166322175/)
