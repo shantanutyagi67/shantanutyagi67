@@ -15,5 +15,8 @@ You can find me here:
 [![Stars][stars-shield]](https://github.com/shantanutyagi67?tab=stars)
 
 ![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&exclude_repo=IE402_Labs,IT214_Labs,YoutubeDataAPI,dog-project,AcadVault,CT303_Labs)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&exclude_repo=IE402_Labs,IT214_Labs,YoutubeDataAPI,dog-project,AcadVault,CT303_Labs) <br>
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=VisualisationProjects_Mini)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=SnakeAI) <br>
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=Tetris_AI)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=Classification)
