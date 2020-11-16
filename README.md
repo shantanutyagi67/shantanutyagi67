@@ -8,7 +8,7 @@
 My name is Shantanu Tyagi and I am a 3rd-year undergrad student of Information and Communication Technology(Hons) with a minor in Computational Science- B.Tech at the Dhirubhai Ambani Institute of Information and Communication Technology, India. <br>
 
 <!-- CONTACT -->
-You can find me on <br>
+You can find me on <br><br>
 [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Youtube][3.2]][3] [![Medium][4.2]][4].
 
 <!-- ICONS -->
