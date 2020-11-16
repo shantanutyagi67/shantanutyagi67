@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/shantanutyagi67/shantanutyagi67/master/head.gif)](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
+[![Header](https://raw.githubusercontent.com/shantanutyagi67/shantanutyagi67/blob/main/head.gif)](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
 <img src="https://raw.githubusercontent.com/shantanutyagi67/shantanutyagi67/master/header.png">
 
 # Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
