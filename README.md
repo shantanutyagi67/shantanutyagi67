@@ -10,7 +10,7 @@ You can find me on [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Youtube][3.2]
 
 <!-- Icons -->
 
-[1.2]: https://imgur.com/Lk0sf5f.png (twitter icon without padding)
+[1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
 [2.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png
 [3.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/youtube.png
 [4.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/medium.png
