@@ -11,9 +11,9 @@ You can find me on [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Youtube][3.2]
 <!-- Icons -->
 
 [1.2]: https://imgur.com/Lk0sf5f.png (twitter icon without padding)
-[2.2]: https://imgur.com/mbSsN.png (LinkedIn icon without padding)
-[3.2]: https://imgur.com/YeNC8.png (LinkedIn icon without padding)
-[4.2]: https://iconscout.com/icon/medium-47.png (LinkedIn icon without padding)
+[2.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkekdin.png
+[3.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/youtube.png
+[4.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/medium.png
 
 <!-- Links to your social media accounts -->
 
@@ -28,7 +28,7 @@ You can find me on [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Youtube][3.2]
 [![Instagram][linkedin-shield]](https://www.instagram.com/geeksa67/)
 [![Stars][stars-shield]](https://github.com/shantanutyagi67?tab=stars)
 
-![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true)
+![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true) <br>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=VisualisationProjects_Mini)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=SnakeAI) <br>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=Tetris_AI)
