@@ -6,28 +6,24 @@
 <!-- INTRO -->
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Shantanu Tyagi and I am a 3rd-year undergrad student of Information and Communication Technology(Hons) with a minor in Computational Science- B.Tech at the Dhirubhai Ambani Institute of Information and Communication Technology, India. <br>
-You can find me on [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Youtube][3.2]][3] [![Medium][4.2]][4].
 
-<!-- Icons -->
+<!-- CONTACT -->
+You can find me on <br>
+[![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Youtube][3.2]][3] [![Medium][4.2]][4].
 
+<!-- ICONS -->
 [1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
 [2.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png
 [3.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/youtube.png
 [4.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/medium.png
 
-<!-- Links to your social media accounts -->
-
+<!-- LINKS -->
 [1]: https://www.instagram.com/geeksa67/
 [2]: https://www.linkedin.com/in/shantanu-tyagi-166322175/
 [3]: https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA
 [4]: https://medium.com/@shantanutyagi67
 
-<!-- SHIELDS -->
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/shantanu-tyagi-166322175/)
-[![YouTube][linkedin-shield]](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
-[![Instagram][linkedin-shield]](https://www.instagram.com/geeksa67/)
-[![Stars][stars-shield]](https://github.com/shantanutyagi67?tab=stars)
-
+<!-- STATS -->
 ![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true) <br>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=VisualisationProjects_Mini)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=SnakeAI) <br>
