@@ -14,5 +14,5 @@ You can find me here:
 [![Instagram][linkedin-shield]](https://www.instagram.com/geeksa67/)
 [![Stars][stars-shield]](https://github.com/shantanutyagi67?tab=stars)
 
-![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=dark&show_icons=true)
+![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true)
 
