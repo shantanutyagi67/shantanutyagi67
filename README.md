@@ -11,9 +11,9 @@ You can find me on [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Youtube][3.2]
 <!-- Icons -->
 
 [1.2]: https://imgur.com/Lk0sf5f.png (twitter icon without padding)
-[2.2]: https://imgur.com/IuEv1GQ.png (LinkedIn icon without padding)
-[3.2]: https://imgur.com/nSekFBq.png (LinkedIn icon without padding)
-[4.2]: https://iconscout.com/icon/medium-47 (LinkedIn icon without padding)
+[2.2]: https://imgur.com/mbSsN.png (LinkedIn icon without padding)
+[3.2]: https://imgur.com/YeNC8.png (LinkedIn icon without padding)
+[4.2]: https://iconscout.com/icon/medium-47.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
