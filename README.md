@@ -15,5 +15,5 @@ You can find me here:
 [![Stars][stars-shield]](https://github.com/shantanutyagi67?tab=stars)
 
 ![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67)](https://github.com/shantanutyagi67/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&exclude_repo=IE402_Labs,IT214_Labs,YoutubeDataAPI,dog-project,AcadVault)
 
