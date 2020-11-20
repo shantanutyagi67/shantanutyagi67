@@ -11,17 +11,22 @@ My name is Shantanu Tyagi and I am a 3rd-year undergrad student of Information a
 You can find me on <br>
 [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Youtube][3.2]][3] [![Medium][4.2]][4].
 
+<!-- PERSONAL INFO -->
+Resume: [![Resume][5.2]][5]
+
 <!-- ICONS -->
 [1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
 [2.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png
 [3.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/youtube.png
 [4.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/medium.png
+[5.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/resume.png
 
 <!-- LINKS -->
 [1]: https://www.instagram.com/geeksa67/
 [2]: https://www.linkedin.com/in/shantanu-tyagi-166322175/
 [3]: https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA
 [4]: https://medium.com/@shantanutyagi67
+[5]: https://drive.google.com/file/d/1TJ9J6QKUoAUAYO2-ADdozq9XB1z7-T6w/view?usp=sharing
 
 <!-- STATS -->
 ![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true) <br>
