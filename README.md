@@ -13,7 +13,8 @@ You can find me on <br>
 
 <!-- PERSONAL INFO -->
 Resume: [![Resume][5.2]][5]
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&body=Hello," target="_blank"></a>
+Email: [![Email][6.2]][6]
+
 
 <!-- ICONS -->
 [1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
@@ -21,6 +22,7 @@ Resume: [![Resume][5.2]][5]
 [3.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/youtube.png
 [4.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/medium.png
 [5.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/resume.png
+[5.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/email.png
 
 <!-- LINKS -->
 [1]: https://www.instagram.com/geeksa67/
@@ -28,6 +30,7 @@ Resume: [![Resume][5.2]][5]
 [3]: https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA
 [4]: https://medium.com/@shantanutyagi67
 [5]: https://drive.google.com/file/d/1TJ9J6QKUoAUAYO2-ADdozq9XB1z7-T6w/view?usp=sharing
+[6]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com
 
 <!-- STATS -->
 ![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true) <br>
