@@ -13,7 +13,7 @@ You can find me on <br>
 
 <!-- PERSONAL INFO -->
 Resume: [![Resume][5.2]][5]
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com" target="_blank">Email</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&body=Hello," target="_blank"></a>
 
 <!-- ICONS -->
 [1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
