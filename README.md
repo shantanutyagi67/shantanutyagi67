@@ -12,7 +12,7 @@ You can find me on <br>
 [![Instagram][1.2]][1]  [![LinkedIn][2.2]][2]  [![Youtube][3.2]][3]  [![Medium][4.2]][4].
 
 <!-- PERSONAL INFO -->
-Resume: [![Resume][5.2]][5]
+Resume: [![Resume][5.2]][5] <br>
 Email: [![Email][6.2]][6]
 
 
@@ -22,7 +22,7 @@ Email: [![Email][6.2]][6]
 [3.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/youtube.png
 [4.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/medium.png
 [5.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/resume.png
-[5.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/email.png
+[6.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/email.png
 
 <!-- LINKS -->
 [1]: https://www.instagram.com/geeksa67/
