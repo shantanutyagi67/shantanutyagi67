@@ -28,7 +28,7 @@ Email: [![Email][6.2]][6]
 [1]: https://www.instagram.com/geeksa67/
 [2]: https://www.linkedin.com/in/shantanu-tyagi-166322175/
 [3]: https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA
-[4]: shantanutyagi67.medium.com
+[4]: https://shantanutyagi67.medium.com/
 [5]: https://drive.google.com/drive/folders/1pn0vw3B7QL5A1P2rPjVHMm9kFbtTwKMc?usp=sharing
 [6]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&su=Reaching+Out+to+You&body=Hi+Shantanu,%0A%0AI+came+across+your+profile+on+GitHub.
 
