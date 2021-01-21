@@ -33,8 +33,8 @@ Email: [![Email][6.2]][6]
 [6]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&su=Reaching+Out+to+You&body=Hi+Shantanu,%0A%0AI+came+across+your+profile+on+GitHub.
 
 <!-- STATS -->
-![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true) <br>
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=VisualisationProjects_Mini)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=Classification) <br>
+![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true)
+<!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=VisualisationProjects_Mini)-->
+<!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=Classification) <br>-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&exclude_repo=IE402_Labs,IT214_Labs,dog-project,AcadVault,CT303_Labs,Classification,Learning_JSP,Learning_Swing,COVID_GUIScrapper,SnakeAI,Connect4_AI,Tetris_AI)
 <!--![Shantanu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shantanutyagi67)<br>-->
