@@ -7,14 +7,30 @@
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Shantanu Tyagi and I am a 3rd-year undergrad student of Information and Communication Technology(Hons) with a minor in Computational Science- B.Tech at the Dhirubhai Ambani Institute of Information and Communication Technology, India. <br>
 
+<h2 align='center'> Technologies and Tools I work with</h2>
+<p align='center'>
+<img src=https://github.com/isocpp/logos/blob/master/cpp_logo.svg height='50' weight='50'/>
+<img src=https://camo.githubusercontent.com/6cc41155e58a4eebe7353d524da5ebb0de7aaf4fd4ad45fb9a433c8b41d38c16/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069 height='50' weight='50'/>
+ <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg height='50' weight='50'/>
+ <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='50' weight='50'/>
+ <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg height='50'  weight='50'/> 
+ <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/djangoproject.svg height='40' weight='40'/>
+<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='40' weight='40'/>
+<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg height='40' weight='40'/>
+<img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg height='40' weight='40'/>
+<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg  height='40' weight='40'/>
+<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/npm.svg  height='40' weight='40'/>
+<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/yarn.svg  height='40' weight='40'/>
+</p>
+
 <!-- CONTACT -->
-You can find me on
+<h2 align='center'> You can find me on</h2>
 [![Instagram][1.2]][1]  [![LinkedIn][2.2]][2]  [![Youtube][3.2]][3]  [![Medium][4.2]][4]
 
 <!-- PERSONAL INFO -->
 Resume: [![Resume][5.2]][5] <br>
 Email: [![Email][6.2]][6]
-
+</p>
 
 <!-- ICONS -->
 [1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
