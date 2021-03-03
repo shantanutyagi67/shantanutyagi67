@@ -24,13 +24,12 @@ My name is Shantanu Tyagi and I am a 3rd-year undergrad student of Information a
 </p>
 
 <!-- CONTACT -->
-<h2 align='center'> You can find me on</h2>
+<h2 align='center'> You can find me on
 [![Instagram][1.2]][1]  [![LinkedIn][2.2]][2]  [![Youtube][3.2]][3]  [![Medium][4.2]][4]
 
 <!-- PERSONAL INFO -->
 Resume: [![Resume][5.2]][5] <br>
 Email: [![Email][6.2]][6]
-</p>
 
 <!-- ICONS -->
 [1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
