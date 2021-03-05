@@ -25,6 +25,15 @@ My name is Shantanu Tyagi and I am a 3rd-year undergrad student of Information a
 <img src=https://github.com/shantanutyagi67/shantanutyagi67/blob/main/matlab.png  height='50' weight='50'/>
 <img src=https://github.com/shantanutyagi67/shantanutyagi67/blob/main/wireshark.png  height='50' weight='50'/>
 <img src=https://github.com/shantanutyagi67/shantanutyagi67/blob/main/selenium.png  height='50' weight='50'/>
+  
+  <img src=https://seeklogo.com/images/O/open-cv-logo-FB233FFF4C-seeklogo.com.png  height='50' weight='50'/>
+  <img src=https://seeklogo.com/images/A/arm-logo-E1A521DA59-seeklogo.com.png  height='50' weight='50'/>
+  <img src=https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png  height='50' weight='50'/>
+  <img src=https://seeklogo.com/images/A/adobe-lightroom-logo-6A4DC55983-seeklogo.com.png  height='50' weight='50'/>
+  <img src=https://seeklogo.com/images/A/adobe-premiere-cc-logo-2B72AFF7E6-seeklogo.com.png  height='50' weight='50'/>
+  <img src=https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png  height='50' weight='50'/>
+  <img src=https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png  height='50' weight='50'/>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png  height='50' weight='50'/>
 </p>
 
 <!-- CONTACT -->
