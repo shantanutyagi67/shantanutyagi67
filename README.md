@@ -39,6 +39,7 @@ I am a 3rd-year undergrad student of Information and Communication Technology(Ho
 
 <!-- CONTACT -->
 ## You can find me on
+[![Email][6.2]][6]
 [![Instagram](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png)](https://www.instagram.com/geeksa67/)
 [![LinkedIn](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png)](https://www.linkedin.com/in/shantanu-tyagi-166322175/)
 [![Youtube][3.2]][3] 
@@ -46,8 +47,7 @@ I am a 3rd-year undergrad student of Information and Communication Technology(Ho
 
 <!-- PERSONAL INFO -->
 ## Personal Info
-Resume: [![Resume][5.2]][5] <br>
-[![Email][6.2]][6]
+[![Resume][5.2]][5] <br>
 
 <!-- ICONS -->
 [1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
