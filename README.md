@@ -2,11 +2,11 @@
 
 <!-- BANNER -->
 [![Header](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/head.gif)](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
-<p align='center'>
+<center>
 ![Stars](https://img.shields.io/github/stars/shantanutyagi67?affiliations=OWNER%2CCOLLABORATOR)
 ![followers](https://img.shields.io/github/followers/shantanutyagi67)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/shantanutyagi67/)
-  </p>
+ </center>
 <!-- INTRO -->
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am a 3rd-year undergrad student of Information and Communication Technology(Hons) with a minor in Computational Science- B.Tech at the Dhirubhai Ambani Institute of Information and Communication Technology, India. <br>
