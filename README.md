@@ -26,7 +26,7 @@ I am a 3rd-year undergrad student of Information and Communication Technology(Ho
 <img src=https://github.com/gilbarbara/logos/blob/master/logos/mysql.svg  height='50' weight='50'/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png  height='50' weight='50'/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png  height='50' weight='50'/>
-<img src=https://insidehpc.com/wp-content/uploads/2017/05/openmp-300x300.jpg  height='50' weight='50'/>
+<img src=https://avatars.githubusercontent.com/u/8496952?s=280&v=4  height='50' weight='50'/>
 <img src=https://github.com/shantanutyagi67/shantanutyagi67/blob/main/matlab.png  height='50' weight='50'/>
 <img src=https://github.com/shantanutyagi67/shantanutyagi67/blob/main/wireshark.png  height='50' weight='50'/>
 <img src=https://github.com/shantanutyagi67/shantanutyagi67/blob/main/selenium.png  height='50' weight='50'/>
@@ -38,6 +38,7 @@ I am a 3rd-year undergrad student of Information and Communication Technology(Ho
 <img src=https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png  height='50' weight='50'/>
 <img src=https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png  height='50' weight='50'/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png  height='50' weight='50'/>
+<img src=https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png  height='50' weight='50'/>
 </p>
 
 <!-- CONTACT -->
