@@ -2,7 +2,8 @@
 
 <!-- BANNER -->
 [![Header](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/head.gif)](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
-![stars](https://img.shields.io/github/stars/shantanutyagi67?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shantanutyagi67/Classification+Ecommerce_Price_Tracker)
+![Stars](https://img.shields.io/github/stars/shantanutyagi67?affiliations=OWNER%2CCOLLABORATOR)
 ![followers](https://img.shields.io/github/followers/shantanutyagi67)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/shantanutyagi67/)
 <!-- INTRO -->
