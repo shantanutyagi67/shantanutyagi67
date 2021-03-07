@@ -2,6 +2,8 @@
 
 <!-- BANNER -->
 [![Header](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/head.gif)](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
+![stars](https://img.shields.io/github/stars/shantanutyagi67?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![followers](https://img.shields.io/github/followers/shantanutyagi67)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/shantanutyagi67/)
 <!-- INTRO -->
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
