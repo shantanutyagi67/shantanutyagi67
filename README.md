@@ -37,7 +37,7 @@ My name is Shantanu Tyagi and I am a 3rd-year undergrad student of Information a
 
 <!-- CONTACT -->
 # Find me on
-[![Instagram][1.2]][1]  [![LinkedIn][2.2]][2]  [![Youtube][3.2]][3]  [![Medium][4.2]][4]  Email: [![Email][6.2]][6]
+[![Instagram][1.2]][1]  [![LinkedIn][2.2]][2]  [![Youtube][3.2]][3]  [![Medium][4.2]][4]  [![Email][6.2]][6]
 
 <!-- PERSONAL INFO -->
 # Personal Info
