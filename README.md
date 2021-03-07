@@ -5,9 +5,9 @@
 
 <!-- INTRO -->
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Shantanu Tyagi and I am a 3rd-year undergrad student of Information and Communication Technology(Hons) with a minor in Computational Science- B.Tech at the Dhirubhai Ambani Institute of Information and Communication Technology, India. <br>
+I am a 3rd-year undergrad student of Information and Communication Technology(Hons) with a minor in Computational Science- B.Tech at the Dhirubhai Ambani Institute of Information and Communication Technology, India. <br>
 
-# Tools and Technologies
+## Tools and Technologies
 <p align='center'>
 <img src=https://camo.githubusercontent.com/6cc41155e58a4eebe7353d524da5ebb0de7aaf4fd4ad45fb9a433c8b41d38c16/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069 height='50' weight='50'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg  height='50' weight='50'/>
@@ -36,13 +36,13 @@ My name is Shantanu Tyagi and I am a 3rd-year undergrad student of Information a
 </p>
 
 <!-- CONTACT -->
-# Find me on
-[![Instagram][1.2]][1]  [![LinkedIn][2.2]][2]  [![Youtube][3.2]][3]  [![Medium][4.2]][4]  [![Email][6.2]][6]
+## Find me on
+[![Instagram][1.2]][1]  [![LinkedIn][2.2]][2]  [![Youtube][3.2]][3]  [![Medium][4.2]][4]
 
 <!-- PERSONAL INFO -->
-# Personal Info
+## Personal Info
 Resume: [![Resume][5.2]][5] <br>
-
+[![Email][6.2]][6]
 
 <!-- ICONS -->
 [1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
@@ -61,7 +61,7 @@ Resume: [![Resume][5.2]][5] <br>
 [6]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&su=Reaching+Out+to+You&body=Hi+Shantanu,%0A%0AI+came+across+your+profile+on+GitHub.
 
 <!-- STATS -->
-# Github Stats
+## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&exclude_repo=CS306_Data_Analysis_And_Visualisation,IT214_Labs,dog-project,AcadVault,CT303_Labs,IT214_Labs,Learning_JSP,Learning_Swing,COVID_GUIScrapper,SnakeAI,Connect4_AI,Tetris_AI,Django_Ecommerce_Price_Tracker,IE402_Labs,Ecommerce_Price_Tracker)
 ![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true)
 <!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=VisualisationProjects_Mini)-->
