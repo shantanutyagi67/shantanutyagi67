@@ -39,6 +39,7 @@ I am a 3rd-year undergrad student of Information and Communication Technology(Ho
 <img src=https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png  height='50' weight='50'/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png  height='50' weight='50'/>
 <img src=https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png  height='50' weight='50'/>
+<img src=https://iconape.com/wp-content/png_logo_vector/csgo-logo.png  height='50' weight='50'/>
 </p>
 
 <!-- CONTACT -->
