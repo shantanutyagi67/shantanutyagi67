@@ -38,8 +38,11 @@ I am a 3rd-year undergrad student of Information and Communication Technology(Ho
 </p>
 
 <!-- CONTACT -->
-You can find me on
-[![Instagram][1.2]][1]  [![LinkedIn][2.2]][2]  [![Youtube][3.2]][3]  [![Medium][4.2]][4]
+## You can find me on
+[![Instagram][1.2]][1]
+[![LinkedIn][2.2]][2]
+[![Youtube][3.2]][3] 
+[![Medium][4.2]][4]
 
 <!-- PERSONAL INFO -->
 ## Personal Info
