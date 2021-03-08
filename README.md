@@ -46,11 +46,30 @@
 
 <!-- CONTACT -->
 ## 📬 You can find me on
+<p align='center'>
+<a href="https://www.instagram.com/geeksa67/">
+<img src="https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png" alt="W3Schools.com" width="50" height="50">
+</a>
+<a href="https://www.linkedin.com/in/shantanu-tyagi-166322175/">
+<img src=" https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png" alt="W3Schools.com" width="50" height="50">
+</a>
+<a href="https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA">
+<img src="https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA" alt="W3Schools.com" width="50" height="50">
+</a>
+<a href="https://shantanutyagi67.medium.com/">
+<img src=" https://shantanutyagi67.medium.com/" alt="W3Schools.com" width="50" height="50">
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&su=Reaching+Out+to+You&body=Hi+Shantanu,%0A%0AI+came+across+your+profile+on+GitHub">
+<img src="https://github.com/shantanutyagi67/shantanutyagi67/blob/main/email.png" alt="W3Schools.com" width="50" height="50">
+</a>
+</p>
+<!--
 [![Email][6.2]][6]
 [![Instagram](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png)](https://www.instagram.com/geeksa67/)
 [![LinkedIn](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png)](https://www.linkedin.com/in/shantanu-tyagi-166322175/)
 [![Youtube][3.2]][3] 
 [![Medium][4.2]][4]
+-->
 
 <!-- PERSONAL INFO -->
 ## Personal Info
