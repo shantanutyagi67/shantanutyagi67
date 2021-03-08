@@ -72,8 +72,8 @@ I am a 3rd-year undergrad student of Information and Communication Technology(Ho
 
 <!-- STATS -->
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&exclude_repo=CS306_Data_Analysis_And_Visualisation,IT214_Labs,dog-project,AcadVault,CT303_Labs,IT214_Labs,Learning_JSP,Learning_Swing,COVID_GUIScrapper,SnakeAI,Connect4_AI,Tetris_AI,Django_Ecommerce_Price_Tracker,IE402_Labs,Ecommerce_Price_Tracker)
-![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=default&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&theme=dark&layout=compact&langs_count=9&exclude_repo=CS306_Data_Analysis_And_Visualisation,IT214_Labs,dog-project,AcadVault,CT303_Labs,IT214_Labs,Django_Ecommerce_Price_Tracker,IE402_Labs,Ecommerce_Price_Tracker,CS302_Modelling_And_Simulation,CS401_Computer_Finance,GSOC_Organisations_Scrapper,Ecommerce_Price_Tracker,FUN,Classification)
+![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=dark&layout=compact&show_icons=true)
 <!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=VisualisationProjects_Mini)-->
 <!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=Classification) <br>-->
 <!--![Shantanu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shantanutyagi67)<br>-->
