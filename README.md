@@ -116,6 +116,6 @@
 
 ## A random meme
 <p align="center">
-<img src='https://meme-api.herokuapp.com/gimme/1' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 (*Refresh the page to see a new meme* :wink:)
 </p>
