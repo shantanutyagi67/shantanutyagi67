@@ -8,7 +8,7 @@
 <!-- INTRO -->
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 * 🎓 I am a 3rd-year B.Tech undergrad student of ICT(Hons) and Computational Science(Minor).
-* 🏫 I will graduate from Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar, Gujarat, India in 2022.
+* 🏫 I will graduate from Dhirubhai Ambani Institute of Information and Communication Technology, India in 2022.
 * 🤓 I am currently studying data science, ML and stock market.
 * 🔎 I am always looking for physical systems that I can visualise.
 * 🕹️ I play Minecraft and CS:GO.
