@@ -6,8 +6,8 @@
 ![followers](https://img.shields.io/github/followers/shantanutyagi67)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/shantanutyagi67/)
 <!-- INTRO -->
-# Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am a 3rd-year undergrad student of Information and Communication Technology(Hons) with a minor in Computational Science- B.Tech at the Dhirubhai Ambani Institute of Information and Communication Technology, India. <br>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub!
+* 🎓 I am a 3rd-year undergrad student of Information and Communication Technology(Hons) with a minor in Computational Science- B.Tech at the Dhirubhai Ambani Institute of Information and Communication Technology, India.
 
 ## Tools and Technologies
 <p align='center'>
@@ -43,7 +43,7 @@ I am a 3rd-year undergrad student of Information and Communication Technology(Ho
 </p>
 
 <!-- CONTACT -->
-## You can find me on
+## 📬 You can find me on
 [![Email][6.2]][6]
 [![Instagram](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png)](https://www.instagram.com/geeksa67/)
 [![LinkedIn](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png)](https://www.linkedin.com/in/shantanu-tyagi-166322175/)
@@ -71,7 +71,7 @@ I am a 3rd-year undergrad student of Information and Communication Technology(Ho
 [6]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&su=Reaching+Out+to+You&body=Hi+Shantanu,%0A%0AI+came+across+your+profile+on+GitHub.
 
 <!-- STATS -->
-## Github Stats
+## 📈 Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&theme=dark&layout=compact&langs_count=9&exclude_repo=CS306_Data_Analysis_And_Visualisation,IT214_Labs,dog-project,AcadVault,CT303_Labs,IT214_Labs,Django_Ecommerce_Price_Tracker,IE402_Labs,Ecommerce_Price_Tracker,CS302_Modelling_And_Simulation,CS401_Computer_Finance,GSOC_Organisations_Scrapper,Ecommerce_Price_Tracker,FUN,Classification)
 ![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=dark&layout=compact&show_icons=true)
 <!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=VisualisationProjects_Mini)-->
