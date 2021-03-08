@@ -58,10 +58,10 @@
 <img src=" https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA">
-<img src="https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA" alt="YouTube" width="50" height="50">
+<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" alt="YouTube" width="50" height="50">
 </a>
 <a href="https://shantanutyagi67.medium.com/">
-<img src=" https://shantanutyagi67.medium.com/" alt="Medium" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Medium" width="50" height="50">
 </a>
 </p>
 <!--
