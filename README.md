@@ -9,10 +9,9 @@
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 * 🎓 I am a 3rd-year B.Tech undergrad student of Information and Communication Technology(Hons) with Computational Science(Minor).
 * 🏫 I will graduate from Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar, Gujarat, India in 2022.
-* 🤓
-* 🔎
-* 💻
-* 🕹️
+* 🤓 I am currently studying data science, ML and stock market.
+* 🔎 I am always looking for physical systems that I can visualise.
+* 🕹️ I play Minecraft and CS:GO.
 
 
 ## 🛠️ Tools and Technologies
@@ -58,7 +57,7 @@
 <img src=" https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA">
-<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" alt="YouTube" width="50" height="50">
+<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" alt="YouTube" height="50">
 </a>
 <a href="https://shantanutyagi67.medium.com/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Medium" width="50" height="50">
