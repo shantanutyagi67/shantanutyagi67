@@ -9,6 +9,10 @@
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 * 🎓 I am a 3rd-year B.Tech undergrad student of Information and Communication Technology(Hons) with Computational Science(Minor).
 * 🏫 I will graduate from Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar, Gujarat, India in 2022.
+* 🤓
+* 🔎
+* 💻
+* 🕹️
 
 
 ## 🛠️ Tools and Technologies
@@ -45,22 +49,19 @@
 </p>
 
 <!-- CONTACT -->
-## 📬 You can find me on
+## 📲 You can find me on
 <p align='center'>
 <a href="https://www.instagram.com/geeksa67/">
-<img src="https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png" alt="W3Schools.com" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" width="50" height="50">
 </a>
 <a href="https://www.linkedin.com/in/shantanu-tyagi-166322175/">
-<img src=" https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png" alt="W3Schools.com" width="50" height="50">
+<img src=" https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA">
-<img src="https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA" alt="W3Schools.com" width="50" height="50">
+<img src="https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA" alt="YouTube" width="50" height="50">
 </a>
 <a href="https://shantanutyagi67.medium.com/">
-<img src=" https://shantanutyagi67.medium.com/" alt="W3Schools.com" width="50" height="50">
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&su=Reaching+Out+to+You&body=Hi+Shantanu,%0A%0AI+came+across+your+profile+on+GitHub">
-<img src="https://github.com/shantanutyagi67/shantanutyagi67/blob/main/email.png" alt="W3Schools.com" width="50" height="50">
+<img src=" https://shantanutyagi67.medium.com/" alt="Medium" width="50" height="50">
 </a>
 </p>
 <!--
@@ -72,8 +73,14 @@
 -->
 
 <!-- PERSONAL INFO -->
-## Personal Info
-[![Resume][5.2]][5] <br>
+## 📬 Contact and personal info
+<p align='center'>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&su=Reaching+Out+to+You&body=Hi+Shantanu,%0A%0AI+came+across+your+profile+on+GitHub">
+<img src="https://github.com/shantanutyagi67/shantanutyagi67/blob/main/email.png" alt="GMail" width="50" height="50">
+</a>
+<a href="https://drive.google.com/drive/folders/1pn0vw3B7QL5A1P2rPjVHMm9kFbtTwKMc?usp=sharing">
+<img src="https://github.com/shantanutyagi67/shantanutyagi67/blob/main/resume.png" alt="Resume" width="50" height="50">
+</a>
 
 <!-- ICONS -->
 [1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
