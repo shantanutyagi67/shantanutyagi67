@@ -5,6 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/shantanutyagi67?affiliations=OWNER%2CCOLLABORATOR)
 ![followers](https://img.shields.io/github/followers/shantanutyagi67)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/shantanutyagi67/)
+
 <!-- INTRO -->
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 * 🎓 I am a 3rd-year B.Tech undergrad student of ICT(Hons) and Computational Science(Minor).
@@ -13,8 +14,10 @@
 * 🔎 I am always looking for physical systems that I can visualise.
 * 🕹️ I play Minecraft and CS:GO.
 
-
+<details>
+<summary>
 ## 🛠️ Tools and Technologies
+</summary>
 <p align='center'>
 <img src=https://camo.githubusercontent.com/6cc41155e58a4eebe7353d524da5ebb0de7aaf4fd4ad45fb9a433c8b41d38c16/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069 height='50' weight='50'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg  height='50' weight='50'/>
@@ -46,9 +49,12 @@
 <img src=https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png  height='50' weight='50'/>
 <img src=https://iconape.com/wp-content/png_logo_vector/csgo-logo.png  height='50' weight='50'/>
 </p>
-
+</details>
 <!-- CONTACT -->
+<details>
+<summary>
 ## 📲 You can find me on
+</summary>
 <p align='center'>
 <a href="https://www.instagram.com/geeksa67/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" width="50" height="50">
@@ -63,6 +69,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Medium" width="50" height="50">
 </a>
 </p>
+</details>
 <!--
 [![Email][6.2]][6]
 [![Instagram](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png)](https://www.instagram.com/geeksa67/)
@@ -72,7 +79,10 @@
 -->
 
 <!-- PERSONAL INFO -->
+<details>
+<summary>
 ## 📬 Contact and personal info
+</summary>
 <p align='center'>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&su=Reaching+Out+to+You&body=Hi+Shantanu,%0A%0AI+came+across+your+profile+on+GitHub">
 <img src="https://github.com/shantanutyagi67/shantanutyagi67/blob/main/email.png" alt="GMail" width="50" height="50">
@@ -80,7 +90,8 @@
 <a href="https://drive.google.com/drive/folders/1pn0vw3B7QL5A1P2rPjVHMm9kFbtTwKMc?usp=sharing">
 <img src="https://github.com/shantanutyagi67/shantanutyagi67/blob/main/resume.png" alt="Resume" width="50" height="50">
 </a>
-
+</details>
+  
 <!-- ICONS -->
 [1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
 [2.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png
@@ -98,9 +109,13 @@
 [6]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&su=Reaching+Out+to+You&body=Hi+Shantanu,%0A%0AI+came+across+your+profile+on+GitHub.
 
 <!-- STATS -->
+<details>
+<summary>
 ## 📈 Github Stats
+</summary>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&theme=dark&layout=compact&langs_count=9&exclude_repo=CS306_Data_Analysis_And_Visualisation,IT214_Labs,dog-project,AcadVault,CT303_Labs,IT214_Labs,Django_Ecommerce_Price_Tracker,IE402_Labs,Ecommerce_Price_Tracker,CS302_Modelling_And_Simulation,CS401_Computer_Finance,GSOC_Organisations_Scrapper,Ecommerce_Price_Tracker,FUN,Classification)
 ![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=dark&layout=compact&show_icons=true)
 <!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=VisualisationProjects_Mini)-->
 <!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=Classification) <br>-->
 <!--![Shantanu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shantanutyagi67)<br>-->
+</details>
