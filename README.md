@@ -115,7 +115,7 @@
 </p>
 
 ## A random meme
-(*Refresh the page to see a new meme* :wink:)
 <p align="center">
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<img src='https://meme-api.herokuapp.com/gimme' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+(*Refresh the page to see a new meme* :wink:)
 </p>
