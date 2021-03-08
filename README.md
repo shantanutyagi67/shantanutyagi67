@@ -50,7 +50,6 @@
 </p>
 <!-- CONTACT -->
 ## 📲 You can find me on
-</summary>
 <p align='center'>
 <a href="https://www.instagram.com/geeksa67/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" width="50" height="50">
@@ -101,8 +100,8 @@
 
 <!-- STATS -->
 ## 📈 Github Stats
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&theme=dark&layout=compact&langs_count=9&exclude_repo=CS306_Data_Analysis_And_Visualisation,IT214_Labs,dog-project,AcadVault,CT303_Labs,IT214_Labs,Django_Ecommerce_Price_Tracker,IE402_Labs,Ecommerce_Price_Tracker,CS302_Modelling_And_Simulation,CS401_Computer_Finance,GSOC_Organisations_Scrapper,Ecommerce_Price_Tracker,FUN,Classification)
-![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=dark&layout=compact&show_icons=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&theme=dark&layout=compact&langs_count=9&exclude_repo=CS306_Data_Analysis_And_Visualisation,IT214_Labs,dog-project,AcadVault,CT303_Labs,IT214_Labs,Django_Ecommerce_Price_Tracker,IE402_Labs,Ecommerce_Price_Tracker,CS302_Modelling_And_Simulation,CS401_Computer_Finance,GSOC_Organisations_Scrapper,Ecommerce_Price_Tracker,FUN,Classification)-->
+<!--![Shantanu's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=shantanutyagi67&theme=dark&layout=compact&show_icons=true)-->
 <!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=VisualisationProjects_Mini)-->
 <!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shantanutyagi67&repo=Classification) <br>-->
 <!--![Shantanu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shantanutyagi67)<br>-->
@@ -113,9 +112,5 @@
     </p>
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=shantanutyagi67&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-    </p>" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 
