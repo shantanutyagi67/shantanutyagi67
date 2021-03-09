@@ -56,7 +56,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" width="50" height="50">
 </a>
 <a href="https://www.linkedin.com/in/shantanu-tyagi-166322175/">
-<img src=" https://github.com/shantanutyagi67/shantanutyagi67/blob/main/linkedin.png" alt="LinkedIn" width="50" height="50">
+<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615292654~hmac=910d6d6f1ef34253aa789ae0eb0c7ddd" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA">
 <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" alt="YouTube" height="50">
@@ -108,14 +108,14 @@
 <!--![Shantanu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shantanutyagi67)<br>-->
 
 <p align="center">
-<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=dark" />
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=dark" />
 </p>
 <p align="center">
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=shantanutyagi67&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=shantanutyagi67&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&hide_border=true&layout=compact&langs_count=8&theme=dark&exclude_repo=CS306_Data_Analysis_And_Visualisation,IT214_Labs,dog-project,AcadVault,CT303_Labs,IT214_Labs,Django_Ecommerce_Price_Tracker,IE402_Labs,Ecommerce_Price_Tracker,CS302_Modelling_And_Simulation,CS401_Computer_Finance,GSOC_Organisations_Scrapper,Ecommerce_Price_Tracker,FUN,Classification" />
 </p>
 
 ## A random meme
 <p align="center">
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a><br>
 (*Refresh the page to see a new meme* :wink:)
 </p>
