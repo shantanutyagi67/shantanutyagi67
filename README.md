@@ -114,7 +114,9 @@
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=shantanutyagi67&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutyagi67&hide_border=true&layout=compact&langs_count=8&theme=dark&exclude_repo=CS306_Data_Analysis_And_Visualisation,IT214_Labs,dog-project,AcadVault,CT303_Labs,IT214_Labs,Django_Ecommerce_Price_Tracker,IE402_Labs,Ecommerce_Price_Tracker,CS302_Modelling_And_Simulation,CS401_Computer_Finance,GSOC_Organisations_Scrapper,Ecommerce_Price_Tracker,FUN,Classification" />
 </p>
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=shantanutyagi67&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img height="50px" width="50px" src="https://github-profile-trophy.vercel.app/?username=shantanutyagi67&theme=onedark" />
+</a>
 </p>
 ## A random meme
 <p align="center">
