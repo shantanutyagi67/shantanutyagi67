@@ -18,12 +18,12 @@
 
 ## 🛠️ Tools and Technologies
 <p align='center'>
-<img src=https://camo.githubusercontent.com/6cc41155e58a4eebe7353d524da5ebb0de7aaf4fd4ad45fb9a433c8b41d38c16/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069 height='40' weight='40'/>
-<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg  height='40' weight='40'/>
-<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg height='40' weight='40'/>
+<img src=https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png height='40' weight='40'/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png  height='40' weight='40'/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png height='40' weight='40'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='40' weight='40'/>
 <img src=https://cdn.345tool.com/public/logos/css-formatter-logo.png height='40'  weight='40'/> 
-<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/djangoproject.svg height='50' weight='40'/>
+<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/djangoproject.svg height='40' weight='40'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='40' weight='40'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg height='40' weight='40'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg  height='40' weight='40'/>
