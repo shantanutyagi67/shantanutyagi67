@@ -2,11 +2,14 @@
 
 <!-- BANNER -->
 [![Header](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/head.gif)](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
-![Stars](https://img.shields.io/github/stars/shantanutyagi67?affiliations=OWNER%2CCOLLABORATOR)
-![followers](https://img.shields.io/github/followers/shantanutyagi67)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/shantanutyagi67/)
-![Repos Badge](https://badges.pufler.dev/repos/shantanutyagi67)
-![Years Badge](https://badges.pufler.dev/years/shantanutyagi67)
+<p align="center">
+<img src="https://img.shields.io/github/stars/shantanutyagi67?affiliations=OWNER%2CCOLLABORATOR" />
+<img src="https://img.shields.io/github/followers/shantanutyagi67" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/shantanutyagi67/" />
+<img src="https://badges.pufler.dev/repos/shantanutyagi67" />
+<img src="https://badges.pufler.dev/years/shantanutyagi67" />
+</p>
+
 
 <!-- INTRO -->
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
