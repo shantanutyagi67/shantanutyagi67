@@ -1,8 +1,8 @@
 <!--**shantanutyagi67/shantanutyagi67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- BANNER -->
-[![Header](https://github.com/shantanutyagi67/shantanutyagi67/blob/main/head.gif)](https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA)
 <p align="center">
+<img src="https://github.com/shantanutyagi67/shantanutyagi67/blob/main/head.gif" />
 <img src="https://img.shields.io/github/stars/shantanutyagi67?affiliations=OWNER%2CCOLLABORATOR" />
 <img src="https://img.shields.io/github/followers/shantanutyagi67" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/shantanutyagi67/" />
