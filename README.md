@@ -21,7 +21,7 @@
 
 ## 🛠️ Tools and Technologies
 <p align='center'>
-<img src=https://www.clipartmax.com/png/middle/240-2409409_c-programming-icon-c-programming-language-icon.png height='40' weight='40'/>
+<img src=https://freepikpsd.com/wp-content/uploads/2019/10/c-programming-logo-png-2-Png-Transparent-Images.png height='40' weight='40'/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png  height='40' weight='40'/>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png height='40' weight='40'/>
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg height='40' weight='40'/>
