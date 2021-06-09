@@ -121,7 +121,7 @@
 </a></p>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img height="150px" src="https://github-profile-trophy.vercel.app/?username=shantanutyagi67&theme=onedark" />
+<img height="150px" src="https://github-profile-trophy.vercel.app/?username=shantanutyagi67&theme=onedark&column=7" />
 </a>
 </p>
 
