@@ -65,6 +65,9 @@
 <a href="https://www.youtube.com/channel/UCCZ_m9lTc2GrSINxnQxHxqA">
 <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" alt="YouTube" height="40">
 </a>
+<a href="https://www.fiverr.com/shantanutyagi67?public_mode=true">
+<img src="https://i.pinimg.com/280x280_RS/9c/8e/b5/9c8eb5d61723c4d763fd66b0d856f9c3.jpg" alt="Medium" width="40" height="40">
+</a>
 <a href="https://shantanutyagi67.medium.com/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Medium" width="40" height="40">
 </a>
