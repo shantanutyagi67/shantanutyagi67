@@ -86,9 +86,11 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shantanutyagi67@gmail.com&su=Reaching+Out+to+You&body=Hi+Shantanu,%0A%0AI+came+across+your+profile+on+GitHub">
 <img src="https://github.com/shantanutyagi67/shantanutyagi67/blob/main/email.png" alt="GMail" width="40" height="40">
 </a>
+<!--
 <a href="https://drive.google.com/drive/folders/1pn0vw3B7QL5A1P2rPjVHMm9kFbtTwKMc?usp=sharing">
 <img src="https://github.com/shantanutyagi67/shantanutyagi67/blob/main/resume.png" alt="Resume" width="40" height="40">
 </a>
+-->
   
 <!-- ICONS -->
 [1.2]: https://github.com/shantanutyagi67/shantanutyagi67/blob/main/instagram.png
