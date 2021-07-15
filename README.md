@@ -13,11 +13,12 @@
 
 <!-- INTRO -->
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-* 🎓 I am a 3rd-year B.Tech undergrad student of ICT(Hons) and Computational Science(Minor).
+* 🎓 I am a 4rd-year B.Tech undergrad student of ICT(Hons) and Computational Science(Minor).
 * 🏫 I will graduate from Dhirubhai Ambani Institute of Information and Communication Technology, India in 2022.
-* 🤓 I am currently studying data science, ML and stock market.
+* 🤓 I am currently studying data science, javascript and stock market.
 * 🔎 I am always looking for physical systems that I can visualise.
 * 🕹️ I play Minecraft and CS:GO.
+* 💻 I am currently working on <a href="https://webtoolkit.netlify.app/">this</a>.
 
 ## 🛠️ Tools and Technologies
 <p align='center'>
