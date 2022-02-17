@@ -132,9 +132,7 @@
 </p>
 
 ## More Stats
-<p align='center'>
-![Metrics](https://metrics.lecoq.io/shantanutyagi67?template=classic&repositories.forks=true&isocalendar=1&lines=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
-</p>
+![Metrics](https://metrics.lecoq.io/shantanutyagi67?template=classic&repositories.forks=true&isocalendar=1&lines=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta) {align=center}
 
 ## 🐸 A random meme
 <p align="center">
