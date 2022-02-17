@@ -131,6 +131,9 @@
 </a>
 </p>
 
+## More Stats
+![Metrics](https://metrics.lecoq.io/shantanutyagi67?template=classic&repositories.forks=true&isocalendar=1&lines=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
+
 ## 🐸 A random meme
 <p align="center">
 <a href="https://github.com/techytushar/random-memer">
